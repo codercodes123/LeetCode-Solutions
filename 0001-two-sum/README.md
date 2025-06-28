@@ -39,3 +39,37 @@
 
 <p>&nbsp;</p>
 <strong>Follow-up:&nbsp;</strong>Can you come up with an algorithm that is less than <code>O(n<sup>2</sup>)</code><font face="monospace">&nbsp;</font>time complexity?
+
+1) Brute Force (Nested Loops)
+   Try every possible pair (i, j) using two loops (i < j).
+   Check if nums[i] + nums[j] == target.
+   Return [i, j] if found.
+
+
+       	time: O(n²) — checks all pairs.
+        Space: O(1) — uses no extra memory.
+
+
+Usage: Great for learning and tiny arrays. In practice, too slow for large inputs. 
+
+2)Two-Pointer (Sorted Arrays)
+First, sort the array (keeping original indices separately).
+Use two pointers: left at start, right at end.
+If sum > target, move right--; if sum < target, move left++.
+When sum == target, you have the solution.
+
+     	time: O(n log n) for sorting + O(n) for pointers.
+    	Space: O(n) for tracking original indices.
+
+Requires sorted input.
+
+3)Optimized HashMap – One-Pass (Final & Recommended)
+    Create a HashMap<Integer, Integer> mapping value → index.
+    For each nums[i], compute complement = target - nums[i].
+    If complement exists in the map, return [map.get(complement), i].
+    Otherwise, add (nums[i], i) to the map.
+	   
+	    time: O(n) — single pass through nums.
+		Space: O(n) — for the hash map.
+
+Why it works: As you scan, you're storing seen values and instantly checking for the needed complement.
