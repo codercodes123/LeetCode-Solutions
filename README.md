@@ -8,6 +8,7 @@ A overall collection of LeetCode algorithm solutions in Java - each with clear e
 | ------- |
 | [0001-two-sum](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0238-product-of-array-except-self](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A overall collection of LeetCode algorithm solutions in Java - each with clear e
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
