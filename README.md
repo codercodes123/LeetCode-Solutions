@@ -8,6 +8,7 @@ A overall collection of LeetCode algorithm solutions in Java - each with clear e
 | ------- |
 | [0001-two-sum](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0238-product-of-array-except-self](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
@@ -18,6 +19,7 @@ A overall collection of LeetCode algorithm solutions in Java - each with clear e
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
@@ -39,4 +41,8 @@ A overall collection of LeetCode algorithm solutions in Java - each with clear e
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
