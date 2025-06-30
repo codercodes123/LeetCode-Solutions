@@ -7,6 +7,7 @@ A overall collection of LeetCode algorithm solutions in Java - each with clear e
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -47,4 +48,12 @@ A overall collection of LeetCode algorithm solutions in Java - each with clear e
 | ------- |
 | [0015-3sum](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
