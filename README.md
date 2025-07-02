@@ -12,6 +12,7 @@ A overall collection of LeetCode algorithm solutions in Java - each with clear e
 | [0015-3sum](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 ## Hash Table
@@ -24,6 +25,7 @@ A overall collection of LeetCode algorithm solutions in Java - each with clear e
 | [0011-container-with-most-water](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A overall collection of LeetCode algorithm solutions in Java - each with clear e
 | ------- |
 | [0015-3sum](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
