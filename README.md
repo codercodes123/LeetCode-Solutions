@@ -10,6 +10,7 @@ A overall collection of LeetCode algorithm solutions in Java - each with clear e
 | [0004-median-of-two-sorted-arrays](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0056-merge-intervals) |
@@ -27,6 +28,7 @@ A overall collection of LeetCode algorithm solutions in Java - each with clear e
 | ------- |
 | [0011-container-with-most-water](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0075-sort-colors) |
 ## Greedy
