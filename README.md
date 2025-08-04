@@ -14,12 +14,14 @@ A overall collection of LeetCode algorithm solutions in Java - each with clear e
 | [0053-maximum-subarray](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A overall collection of LeetCode algorithm solutions in Java - each with clear e
 | [0015-3sum](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/codercodes123/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
